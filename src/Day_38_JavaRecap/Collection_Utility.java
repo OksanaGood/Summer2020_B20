@@ -78,9 +78,6 @@ public class Collection_Utility {
 
         System.out.println(list);
 
-
-
-
     }
 
 
