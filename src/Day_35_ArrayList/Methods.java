@@ -9,7 +9,7 @@ public class Methods {
             earlyBirdList.add("Virginia");
             earlyBirdList.add("Ziiadin");
             earlyBirdList.add("Erfan");
-            earlyBirdList.add("Aalia");
+            earlyBirdList .add("Aalia");
 
 
             earlyBirdList.set(2, "Aslan");
