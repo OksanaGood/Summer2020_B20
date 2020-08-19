@@ -1,4 +1,4 @@
-package Day_41_Static;
+package Day_41_ToString;
 import java.text.DecimalFormat;
 
 public class Carpet {
